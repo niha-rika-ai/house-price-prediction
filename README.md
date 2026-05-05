@@ -30,9 +30,9 @@ It uses a Linear Regression model and provides an interactive web interface usin
 ---
 
 ## 📸 Screenshots
-<img width="960" height="758" alt="UI" src="https://github.com/user-attachments/assets/c83a84cc-ccce-4b30-8554-960ea6bd46ee" />
-<img width="951" height="847" alt="Graph" src="https://github.com/user-attachments/assets/351f47d9-ffef-46fc-973a-33f4e6ea15aa" />
-<img width="899" height="710" alt="PredictionVSactual" src="https://github.com/user-attachments/assets/f5236aaf-f6c5-4ce8-9bad-053cdad636bd" />
+<img width="969" height="741" alt="Screenshot 2026-05-05 212541" src="https://github.com/user-attachments/assets/a2479ec2-a8f2-4732-aaeb-4dfeff29ba7b" />
+<img width="933" height="843" alt="Screenshot 2026-05-05 212552" src="https://github.com/user-attachments/assets/f9514a01-cc75-40fd-a52d-e35322e2c3f1" />
+<img width="914" height="723" alt="Screenshot 2026-05-05 212600" src="https://github.com/user-attachments/assets/f8ef446a-e4b9-4b7c-bcf6-aeaccc2c462d" />
 
 ---
 ## 📊 Results
