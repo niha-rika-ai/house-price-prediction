@@ -29,6 +29,12 @@ It uses a Linear Regression model and provides an interactive web interface usin
 
 ---
 
+## 📸 Screenshots
+<img width="960" height="758" alt="UI" src="https://github.com/user-attachments/assets/c83a84cc-ccce-4b30-8554-960ea6bd46ee" />
+<img width="951" height="847" alt="Graph" src="https://github.com/user-attachments/assets/351f47d9-ffef-46fc-973a-33f4e6ea15aa" />
+<img width="899" height="710" alt="PredictionVSactual" src="https://github.com/user-attachments/assets/f5236aaf-f6c5-4ce8-9bad-053cdad636bd" />
+
+---
 ## 📊 Results
 - Model Accuracy (R²): ~0.95
 - Strong linear relationship between features and price
